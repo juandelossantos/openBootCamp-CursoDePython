@@ -3,7 +3,7 @@ altura = input("Escriba su altura en metros (decimales): ")
 
 # Convierto los datos recibidos en números
 
-peso = float(peso);
+peso = float(peso)
 altura = float(altura)
 
 # Calculo el IMC

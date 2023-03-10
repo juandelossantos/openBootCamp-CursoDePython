@@ -10,4 +10,4 @@ Escribe un programa en la consola de python que pida al usuario su peso (en kg) 
 ## Ejercicio 4
 Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
 
-[Ver desarrollo del Ejercico aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/)
+[Ver desarrollo del Ejercico aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/blob/e4ba485a2500ca6df7acb6e4b0521914207925f7/de100a1.py)

@@ -31,4 +31,4 @@ Por otro lado crearéis la clase Coche la cual heredará de Vehículo y tendrá 
 
 Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por consola.
 
-[Ver desarrollo del Ejercicio aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/blob/afd9ec2afa653507a7d702adb927853028c34f4b/bisiesto.py)
+[Ver desarrollo del Ejercicio aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/blob/d60aceb0c00d80e5b3e346a05b0809692ca10dc1/claseCoche.py)

@@ -36,4 +36,4 @@ Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por cons
 ## Ejercicio 7
 En este segundo ejercicio, tendréis que crear un programa que tenga una clase llamada Alumno que tenga como atributos su nombre y su nota. Deberéis de definir los métodos para inicializar sus atributos, imprimirlos y mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
 
-[Ver desarrollo del Ejercicio aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/blob/d60aceb0c00d80e5b3e346a05b0809692ca10dc1/claseCoche.py)
+[Ver desarrollo del Ejercicio aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/blob/6368cdb6054728699f632fa909197e27cf0c1d4c/notaAlumno.py)

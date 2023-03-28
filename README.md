@@ -16,3 +16,19 @@ Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden 
 Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
 
 [Ver desarrollo del Ejercicio aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/blob/afd9ec2afa653507a7d702adb927853028c34f4b/bisiesto.py)
+
+## Ejercicio 6
+En este ejercicio vais a crear la clase Vehículo la cual tendrá los siguientes atributos:
+
+- Color
+- Ruedas
+- Puertas
+
+Por otro lado crearéis la clase Coche la cual heredará de Vehículo y tendrá los siguientes atributos:
+
+- Velocidad
+- Cilindrada
+
+Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por consola.
+
+[Ver desarrollo del Ejercicio aquí](https://github.com/juandelossantos/openBootCamp-CursoDePython/blob/afd9ec2afa653507a7d702adb927853028c34f4b/bisiesto.py)
